@@ -12,3 +12,7 @@ const multiline2 = `I love you
 I miss you
 I need you`;
 console.log(multiline2);
+
+const name = "Adam Sandler";
+const greeting = `Hello ${name}, welcome to the club!!!`;
+console.log(greeting);
